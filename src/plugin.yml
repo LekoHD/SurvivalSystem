@@ -1,0 +1,11 @@
+name: SurvivalSystem
+version: 0.1
+authors: [Leon167, LekoHD]
+description: Official SurvivalSystem Plugin
+main: com.lekohd.survivalsystem.SurvivalSystem
+
+commands:
+  punkte:
+    aliases: [punkte, points]
+
+depend: [PermissionsEx]
